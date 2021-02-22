@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        "use strict";
+        //Задания 4 и 5
+
+        let a = 3;
+        let b = 5;
+        
+        function sum(a, b) {
+            return a + b;     
+        }
+       
+        function division(a, b) {
+            return a / b;
+        }
+
+        function minus(a, b) {
+            return a - b;
+        }
+
+        function multiplication(a, b) {
+            return a * b;
+        }
+
+        function mathOperation(arg1, arg2, operation){
+    			switch (operation) {
+       				 case "сложение":
+           				 return sum(arg1, arg2);
+       				 case "деление":
+           				 return division(arg1, arg2);
+        			 case "вычитание":
+                      	 return minus(arg1, arg2);
+       				 case "умножение":
+           				 return multiplication(arg1, arg2);
+   				}
+		}
+
+        console.log(mathOperation(3, 5, "сложение"));
+        console.log(mathOperation(3, 5, "деление"));
+        console.log(mathOperation(3, 5, "вычитание"));
+        console.log(mathOperation(3, 5, "умножение"));
+    </script>
+</body>
+</html>
