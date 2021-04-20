@@ -1,0 +1,79 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 123,
+            "product_name": "Samsung Galaxy Note 20 Ultra 8",
+            "price": 74490,
+            "quantity": 11
+        },
+        {
+            "id_product": 456,
+            "product_name": "Samsung Galaxy Z-Flip",
+            "price": 69890,
+            "quantity": 7
+        },
+        {
+            "quantity": 21,
+            "id_product": 457,
+            "product_name": "Samsung Galaxy S20",
+            "price": 67990
+        },
+        {
+            "quantity": 8,
+            "id_product": 124,
+            "product_name": "Samsung Galaxy A40",
+            "price": 14110
+        },
+        {
+            "quantity": 1,
+            "id_product": 123,
+            "product_name": "Samsung Galaxy Note 20 Ultra 8",
+            "price": 74490,
+            "imgPath": "img/123.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 457,
+            "product_name": "Samsung Galaxy S20",
+            "price": 67990,
+            "imgPath": "img/457.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 457,
+            "product_name": "Samsung Galaxy S20",
+            "price": 67990,
+            "imgPath": "img/457.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 457,
+            "product_name": "Samsung Galaxy S20",
+            "price": 67990,
+            "imgPath": "img/457.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 123,
+            "product_name": "Samsung Galaxy Note 20 Ultra 8",
+            "price": 74490,
+            "imgPath": "img/123.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 123,
+            "product_name": "Samsung Galaxy Note 20 Ultra 8",
+            "price": 74490,
+            "imgPath": "img/123.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 123,
+            "product_name": "Samsung Galaxy Note 20 Ultra 8",
+            "price": 74490,
+            "imgPath": "img/123.jpg"
+        }
+    ]
+}
